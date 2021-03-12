@@ -6,6 +6,7 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		MyParantClass m = new MyParantClass();
 		m.job();
+		MyParantClass.living();
 
 	}
 
